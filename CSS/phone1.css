@@ -7,7 +7,7 @@
     font-size: 1rem;
 }
 .navbar ul li a{
-    padding: 3px 13px;
+    padding: 3px 22px;
     padding-bottom: 6px;
 }
 /* Home section */
@@ -52,3 +52,7 @@ footer div{
 .h-secondary{
     font-size: 1.8rem;
 }
+#service-section{
+    margin-top: -45px;
+    
+  }
